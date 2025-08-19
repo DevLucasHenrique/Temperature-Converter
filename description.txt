@@ -1,0 +1,7 @@
+Este projeto visa criar um conversor de temperatura para iniciantes. 
+A versão final do projeto inclui três entradas para os formatos de temperatura Celsius, Fahrenheit e Kelvin. 
+Ao alterar qualquer uma dessas entradas, por exemplo, se você escolher 100 graus Celsius, verá o valor Celsius equivalente nos formatos Fahrenheit e Kelvin. Além disso, se você alterar uma entrada, verá uma alteração em tempo real nas outras entradas. 
+Por exemplo, alterar a entrada Fahrenheit para 100 graus mostrará que ela é igual a 37 graus Celsius e 311 Kelvin. 
+Para criar este projeto, aprenderemos como usar um ouvinte de eventos "onchange" para rastrear alterações dentro das entradas. Também usaremos a instrução switch para rastrear alterações com base no nome da entrada em que estamos trabalhando. 
+Além disso, usaremos CSS para dar ao projeto uma aparência moderna, inspirada no design do newMorphISM. 
+Em resumo, este projeto nos ajudará a aprender como criar um conversor de temperatura usando JavaScript e CSS, e aprenderemos como rastrear alterações usando ouvintes de eventos e instruções switch.

@@ -1,0 +1,79 @@
+@media screen and (min-width: 768px){
+    div#inputsDiv {
+        width: 85%;
+    }
+
+    div#inputsDiv > h1 {
+        font-size: 2.4em;
+        margin-top: 20px;
+    }
+
+    div#inputsDiv div.inputDiv > label {
+        margin-bottom: 10px;
+        font-size: 1.4em;
+    }
+
+    div#inputsDiv input {
+        font-size: 1.2em;
+        height: 60%;
+    }
+
+    div.inputDiv {
+        margin-bottom: 24px;
+        height: 20%;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    div#inputsDiv {
+        width: 70%;
+    }
+
+    div#inputsDiv > h1 {
+        font-size: 2.4em;
+        margin-top: 20px;
+    }
+
+    div#inputsDiv div.inputDiv > label {
+        margin-bottom: 10px;
+        font-size: 1.4em;
+    }
+
+    div#inputsDiv input {
+        font-size: 1.2em;
+        height: 60%;
+    }
+
+    div.inputDiv {
+        margin-bottom: 24px;
+        height: 20%;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+
+    div#inputsDiv {
+        width: 50%;
+        align-items: center;
+    }
+
+    div#inputsDiv > h1 {
+        font-size: 2.8em;
+        margin-top: 20px;
+    }
+
+    div#inputsDiv div.inputDiv > label {
+        margin-bottom: 10px;
+        font-size: 1.4em;
+    }
+
+    div#inputsDiv input {
+        font-size: 1.2em;
+        height: 60%;
+    }
+
+    div.inputDiv {
+        margin-bottom: 24px;
+        height: 20%;
+    }
+}
