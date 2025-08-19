@@ -66,3 +66,21 @@ div#inputsDiv input {
     border-radius: 8px;
     padding: 12px;
 }
+
+footer {
+    background-color: var(--lightGreen);
+    font-family: "Poppins";
+    text-align: center;
+    padding: 20px;
+}
+
+footer h4 strong a {
+    transition: 0.3s ease;
+    text-decoration: none;
+    color: black;
+}
+
+footer h4 strong a:hover {
+    transition: 0.3s ease;
+    color: var(--darkGreen);
+}
